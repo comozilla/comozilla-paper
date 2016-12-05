@@ -6,10 +6,10 @@ a {
   color: #222;
 }
 
-#head {
+header {
   background: -moz-linear-gradient(to bottom, #70caf20%, #181b47100%);
 }
-#head h1 {
+header h1 {
   color: white;
   font-size: 40px;
 }
@@ -28,14 +28,14 @@ a {
   margin-bottom: 10px;
 }
 
-#divaddress {
+footer {
   width: 50%;
 }
-#qr {
+footer #qr {
   height: 80px;
   width: 80px;
   float: left;
 }
-#divaddress h1 {
+footer h1 {
   display: inline;
 }
