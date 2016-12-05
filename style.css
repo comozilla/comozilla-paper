@@ -31,7 +31,7 @@ header h1 {
 footer {
   width: 50%;
 }
-footer #qr {
+footer img {
   height: 80px;
   width: 80px;
   float: left;
