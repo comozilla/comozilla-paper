@@ -7,16 +7,16 @@ a {
 }
 
 #head {
-  background: -moz-linear-gradient(top, #70caf20%, #181b47100%);
+  background: -moz-linear-gradient(to bottom, #70caf20%, #181b47100%);
 }
 #head h1 {
-  color: #ffffff;
+  color: white;
   font-size: 40px;
 }
 
 #description {
   background-color: #eb374b;
-  color: #ffffff;
+  color: white;
   font-size: 20px;
 }
 #image {
@@ -36,6 +36,6 @@ a {
   width: 80px;
   float: left;
 }
-#divaddress h1{
+#divaddress h1 {
   display: inline;
 }
