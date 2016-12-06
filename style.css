@@ -1,11 +1,19 @@
 body {
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+header {
+  background: -moz-linear-gradient(to bottom, #70caf20%, #181b47100%);
+}
 header h1 {
   color: white;
   font-size: 40px;
 }
- 
+
 #description {
   background-color: #eb374b;
   color: white;
